@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lhc-kali.github.io/about/</loc>
+    <lastmod>2021-01-23T15:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/</loc>
+    <lastmod>2021-01-23T15:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/</loc>
+    <lastmod>2021-01-23T15:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2021-01-23T15:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2021-01-23T15:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/post/</loc>
+    <lastmod>2021-01-23T15:25:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/termux/</loc>
+    <lastmod>2021-01-23T15:25:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/ubuntu/</loc>
+    <lastmod>2021-01-23T15:25:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/post/ubuntu-install-zh-cn/</loc>
+    <lastmod>2021-01-23T15:25:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/rootfs/</loc>
+    <lastmod>2021-01-23T15:24:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/post/ubuntu-install-xfce4/</loc>
+    <lastmod>2021-01-23T15:24:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/xfce4/</loc>
+    <lastmod>2021-01-23T15:24:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/tags/hugo/</loc>
+    <lastmod>2021-01-05T18:46:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/post/termux-install-hugo/</loc>
+    <lastmod>2021-01-05T18:46:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lhc-kali.github.io/search/</loc>
+  </url>
+  
+</urlset>

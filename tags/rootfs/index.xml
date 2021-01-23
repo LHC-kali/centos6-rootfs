@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rootfs on LHC&#39;s blog</title>
+    <link>https://lhc-kali.github.io/tags/rootfs/</link>
+    <description>Recent content in rootfs on LHC&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 23 Jan 2021 15:24:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://lhc-kali.github.io/tags/rootfs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ubuntu安装Xfce4&amp;vnc</title>
+      <link>https://lhc-kali.github.io/post/ubuntu-install-xfce4/</link>
+      <pubDate>Sat, 23 Jan 2021 15:24:44 +0000</pubDate>
+      
+      <guid>https://lhc-kali.github.io/post/ubuntu-install-xfce4/</guid>
+      <description>在ubuntu系统上安装xfce4图形化桌面</description>
+    </item>
+    
+  </channel>
+</rss>

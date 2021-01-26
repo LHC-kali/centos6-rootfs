@@ -1,0 +1,22 @@
+---
+title: "Termux Install Ohmyzsh"
+date: 2021-01-26T16:04:49Z
+draft: false
+tags: ["termux","zsh"]
+summary: "在termux上美化终端"
+---
+### 终端美化
+
+项目地址：https://github.com/Cabbagec/termux-ohmyzsh/
+
+> 代码
+
+```
+sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+```
+
+> 设置颜色&字体
+
+①设置颜色输入`chcolor`命令更换色彩样式，或者：`~/.termux/colors.sh`命令
+
+②设置字体运行`chfont`更换字体，或者：`~/.termux/fonts.sh`命令

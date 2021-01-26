@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zsh on LHC&#39;s blog</title>
+    <link>https://lhc-kali.github.io/tags/zsh/</link>
+    <description>Recent content in zsh on LHC&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 26 Jan 2021 16:04:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://lhc-kali.github.io/tags/zsh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Termux Install Ohmyzsh</title>
+      <link>https://lhc-kali.github.io/post/termux-install-ohmyzsh/</link>
+      <pubDate>Tue, 26 Jan 2021 16:04:49 +0000</pubDate>
+      
+      <guid>https://lhc-kali.github.io/post/termux-install-ohmyzsh/</guid>
+      <description>在termux上美化终端</description>
+    </item>
+    
+  </channel>
+</rss>
